@@ -1,5 +1,6 @@
 # CS 509 Hands-On 9
 
+Note: Run Program.cs to test the singleton logger, static logger and animal factory
 1. Singleton logger implementation in SingletonLogger/SingletonLogger.cs
 2. Static logger implementation in SingletonLogger/StaticLogger.cs
 3. Animal factory implementation in AnimalFactory/Animal.cs
